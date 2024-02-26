@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="arrowBC" transform="translate(-762)">
+    <g id="Group_48712" data-name="Group 48712" transform="translate(762)">
+      <circle id="Ellipse_9915" data-name="Ellipse 9915" cx="9" cy="9" r="9" fill="none"/>
+      <g id="arrow-ios-back" transform="translate(5.994 3.749)">
+        <g id="arrow-ios-back-2" data-name="arrow-ios-back">
+          <g id="arrow-ios-back-3" data-name="arrow-ios-back">
+            <path id="Path_107213" data-name="Path 107213" d="M12.371,15.5a.75.75,0,0,1-.585-.278l-3.623-4.5a.75.75,0,0,1,0-.953l3.75-4.5a.751.751,0,1,1,1.155.96L9.716,10.25l3.24,4.02a.75.75,0,0,1-.585,1.23Z" transform="translate(-7.993 -4.999)" fill="#80057c"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

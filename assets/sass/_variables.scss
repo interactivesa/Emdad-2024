@@ -1,0 +1,41 @@
+$font-ar: "DIRegular";
+$font-en: "DIRegular";
+
+$font-path: "../fonts/";
+$img-path: "../images/";
+
+// colors
+
+
+$p-color: #2D2651;
+$titleColor:#080031;
+$main-color:#80057C;
+$gray-color:#7d7d7d;
+$dark-blue1:#3F0C55;
+$dark-blue2:#080031;
+
+
+$theme-colors: (
+  // "primary": $primary-color,
+  // "warning": $orange-color,
+  // "success": $green-color,
+  // "gray": $gray-color,
+  // "red": $red-color
+);
+
+// font weight
+$w-thin: 100; // (Hairline)
+$w-extra-light: 200; // (Ultra Light)
+$w-light: 300;
+$w-normal: 400; // (Regular)
+$w-medium: 500;
+$w-semi-bold: 600; // (Semi Bold)
+$w-bold: 700;
+$w-extra-bold: 800; // (Ultra Bold)
+$w-black: 900; //(Heavy)
+
+
+
+//more 
+
+$raduis-normal : 8px;
