@@ -1055,10 +1055,10 @@ a.mainBtn {
 .contactUs input,
 .contactUs textarea {
   padding: 12px 24px;
-  background: transparent;
+  background: transparent !important;
   border: 1px solid #fff;
   border-radius: 4px;
-  color: #fff;
+  color: #fff !important;
   font-size: 20px;
 }
 
