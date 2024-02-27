@@ -1,0 +1,234 @@
+.inner-header{
+    height: auto;
+}
+
+// breadcrumb
+.breadcrumbSec {
+    background: #fff;
+    padding: 23px 0;
+    // margin-bottom: 60px;
+    .breadcrumb {
+        margin-bottom: 0;
+      li {
+        font-size: 1rem;
+        a {
+          font-size: 1rem;
+          color: $main-color;
+        }
+        &:last-of-type {
+          color: $gray-color;
+        }
+        &:not(:last-of-type) {
+          // background-color: red;
+          padding-#{$end-direction}: 30px;
+          position: relative;
+          &::before {
+            position: absolute;
+            content: "";
+            background-image: url(../images/shared/arrowBC.svg);
+            background-repeat: no-repeat;
+            background-size: 18px;
+            #{$end-direction}: 6px;
+            top: 6px;
+            width: 18px;
+            height: 18px;
+          }
+        }
+      }
+    }
+
+  }
+
+  .content{
+    min-height: 50vh;
+  }
+
+  .offset-lg-1 {
+    margin-#{$start-direction}: 8.33333333%;
+    margin-#{$end-direction}: 0;
+
+    }
+
+
+  /*
+      about-us
+  */
+
+  .about-us-first{
+    background-color: #fff;
+    border: 2px solid #F3F3F3;
+    box-shadow: 0 10px 10px rgba($color: #000000, $alpha: .05);
+    background-image: url(../images/about/about-first-bg.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 30px;
+    margin-bottom: 120px;
+    .img-box{
+
+    }
+    .content-box{
+        padding-top: 87px;
+        padding-#{$end-direction}:95px ;
+        h3{
+            font-size: 55px;
+            font-family: 'DIMedium';
+            line-height: 1.5;
+            color: $titleColor;
+            margin-bottom: 37px;
+        }
+        p{
+            font-size: 24px;
+            color: $p-color;
+            line-height: 2;
+            margin-bottom: 0;
+        }
+    }
+  }
+
+
+
+  .mission-vission-part{
+    padding-bottom: 115px;
+    .part-card{
+      background-color: #fff;
+      border: 2px solid #F3F3F3;
+      box-shadow: 0 10px 10px rgba($color: #000000, $alpha: .05);
+      background-image: url(../images/about/mission&vission-bg.svg);
+      background-repeat: no-repeat;
+      background-position: top;
+      padding: 60px 60px ;
+      min-height: 340px;
+      h4{
+        font-size: 40px;
+        line-height: 1.5;
+        color: #60065D;
+        margin-bottom: 28px;
+      }
+      p{
+        font-size: 24px;
+        line-height: 2;
+        color: $p-color;
+        margin-bottom: 0;
+      }
+
+      &.mission{
+        margin-#{$end-direction}:15px ;
+      }
+      &.vission{
+        margin-#{$start-direction}:15px ;
+      }
+    }
+  }
+
+
+
+  .Valuable{
+    background-color: #F5F5F5;
+    padding-top: 100px;
+    min-height: 680px;
+    .main-hd{
+      font-size: 40px;
+      font-family: 'DIMedium';
+      color: $titleColor;
+      margin-bottom: 127px;
+      text-align: center;
+    }
+    .val-row{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      .val-card{
+        width: 160px;
+        height: 230px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .img-box{
+          padding: 0 10px;
+          margin-bottom: 55px;
+          img{
+            max-width: 100%;
+            height: 145px;
+          }
+        }
+        .content-box{
+          h4{
+            font-size: 24px;
+            font-family: 'DIMedium';
+            color: #A70098;
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+
+
+  .Goals{
+    padding-top: 110px;
+    padding-bottom: 150px;
+    .main-hd{
+      font-size: 40px;
+      font-family: 'DIMedium';
+      color: $titleColor;
+      margin-bottom: 95px;
+      text-align: center;
+    }
+    .col-lg-3{
+      margin-#{$end-direction}: 80px;
+      &:last-child{
+        margin-#{$end-direction}: 0;
+      }
+    }
+    .goal-card{
+      position: relative;
+      height: 225px;
+      display: flex;
+      align-items: center;
+      transition: 500ms;
+      .number{
+        font-size: 165px;
+        font-family: 'DIBold';
+        color: #A70098;
+        position: absolute;
+        width: 92px;
+        height: 100px;
+        #{$start-direction}:5px;
+        bottom: 68%;
+        z-index: 1;
+        transition: 500ms;
+
+      }
+      .content-box{
+        padding-#{$start-direction}: 85px;
+        padding-#{$end-direction}: 20px;
+        z-index: 2;
+        p{
+          font-size: 24px;
+          color: #2D2651;
+          margin-bottom: 0;
+        }
+      }
+
+      &:hover{
+        background-color: #F7F7F7;
+        border-radius: 16px;
+        .number{
+          transform: scale(1.2);
+          bottom: 75%;
+        }
+      }
+    }
+  }
+
+  @media (min-width: 992px){
+    .Goals .col-lg-3 {
+        flex: 0 0 auto;
+        width: 27%;
+    }
+  }
+
+  .center-here{
+    display: flex;
+    justify-content: center;
+  }
