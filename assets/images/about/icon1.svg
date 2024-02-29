@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225.733" height="209.617" viewBox="0 0 225.733 209.617">
+  <g id="icon1" transform="translate(-823.605 -192.487)">
+    <path id="Path_57" data-name="Path 57" d="M935.155,305.353l15.4,24.487,29.122,6.429-19.607,21.563,2.6,28.461-27.513-11.161-27.513,11.161,2.6-28.461-19.607-21.563,29.122-6.429Z" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+    <path id="Path_58" data-name="Path 58" d="M1025.505,397.418l-17.5-7.1-20.009,8.117,1.893-20.7-14.259-15.682,21.179-4.676,11.2-17.809,11.2,17.809,21.179,4.676-14.259,15.682,1.893,20.7-2.506-1.016" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+    <path id="Path_59" data-name="Path 59" d="M862.309,339.568l11.2,17.809,21.179,4.676-14.259,15.682,1.893,20.7-20.01-8.117L842.3,398.434l1.893-20.7-14.259-15.682,21.179-4.676Z" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+    <g id="Group_44" data-name="Group 44">
+      <path id="Path_60" data-name="Path 60" d="M936.471,236.554h0a16.188,16.188,0,0,1-16.188-16.188v-8.094a16.188,16.188,0,0,1,16.188-16.188h0a16.187,16.187,0,0,1,16.188,16.188v8.094A16.188,16.188,0,0,1,936.471,236.554Z" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+      <path id="Path_61" data-name="Path 61" d="M960.754,256.007q1.066.293,2.128.611l3.495,1.048a16.188,16.188,0,0,1,11.48,14.161l3.131,33.526-1.316,14.473" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+      <path id="Path_62" data-name="Path 62" d="M893.2,319.048l-1.245-13.7,3.131-33.526a16.189,16.189,0,0,1,11.481-14.161l3.494-1.048a91.929,91.929,0,0,1,26.411-3.876h0q4.058,0,8.094.357" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+      <line id="Line_14" data-name="Line 14" y1="30.369" transform="translate(912.189 281.071)" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+      <line id="Line_15" data-name="Line 15" y1="34.379" transform="translate(960.753 281.071)" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+      <g id="Group_42" data-name="Group 42">
+        <path id="Path_63" data-name="Path 63" d="M1001.223,252.742h0a16.189,16.189,0,0,1-16.188-16.188V228.46a16.188,16.188,0,0,1,16.188-16.188h0a16.187,16.187,0,0,1,16.188,16.188v8.094A16.188,16.188,0,0,1,1001.223,252.742Z" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+        <path id="Path_64" data-name="Path 64" d="M993.916,269.221q3.642-.291,7.307-.291h0a91.924,91.924,0,0,1,26.411,3.876l3.495,1.048a16.188,16.188,0,0,1,11.48,14.161l3.131,33.526-2.235,24.587" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+        <line id="Line_16" data-name="Line 16" y1="39.577" transform="translate(1025.505 297.259)" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+      </g>
+      <g id="Group_43" data-name="Group 43">
+        <path id="Path_65" data-name="Path 65" d="M871.719,252.742h0a16.188,16.188,0,0,0,16.188-16.188V228.46a16.188,16.188,0,0,0-16.188-16.188h0a16.188,16.188,0,0,0-16.188,16.188v8.094A16.188,16.188,0,0,0,871.719,252.742Z" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+        <path id="Path_66" data-name="Path 66" d="M828.336,309.4,827.2,321.541l2.188,24.067" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+        <path id="Path_67" data-name="Path 67" d="M878.979,269.217q-3.62-.287-7.26-.287h0a91.929,91.929,0,0,0-26.411,3.876l-3.495,1.048a16.189,16.189,0,0,0-11.48,14.161l-.485,5.2" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+        <line id="Line_17" data-name="Line 17" y1="35.525" transform="translate(847.437 297.259)" fill="none" stroke="#222831" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.195"/>
+      </g>
+    </g>
+  </g>
+</svg>
