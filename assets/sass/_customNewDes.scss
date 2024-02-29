@@ -75,6 +75,7 @@
             line-height: 1.5;
             color: $titleColor;
             margin-bottom: 37px;
+            font-weight: normal;
         }
         p{
             font-size: 24px;
@@ -103,6 +104,8 @@
         line-height: 1.5;
         color: #60065D;
         margin-bottom: 28px;
+        font-weight: normal;
+        font-family: 'DIMedium';
       }
       p{
         font-size: 24px;
@@ -153,8 +156,9 @@
         }
         .content-box{
           h4{
-            font-size: 24px;
+            font-size: 30px;
             font-family: 'DIMedium';
+            font-weight: normal;
             color: #A70098;
             margin-bottom: 0;
           }

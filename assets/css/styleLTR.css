@@ -510,7 +510,7 @@ a.mainBtn {
 }
 
 .homeHeader .homeSwiper .boxHomeSlide h2 {
-  font-size: 60px;
+  font-size: 75px;
   font-family: 'DIMedium';
   line-height: 1.5;
   color: #fff;
@@ -572,6 +572,12 @@ a.mainBtn {
 }
 
 .homeHeader video {
+  min-width: 100%;
+  min-height: 100vh;
+  z-index: 1;
+}
+
+.homeHeader img {
   min-width: 100%;
   min-height: 100vh;
   z-index: 1;
@@ -1002,6 +1008,13 @@ a.mainBtn {
 }
 
 .contactUs .container .vid-box video {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.contactUs .container .vid-box img {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
@@ -4102,6 +4115,7 @@ html[lang="en"] .showAllServices:hover img {
   line-height: 1.5;
   color: #080031;
   margin-bottom: 37px;
+  font-weight: normal;
 }
 
 .about-us-first .content-box p {
@@ -4132,6 +4146,8 @@ html[lang="en"] .showAllServices:hover img {
   line-height: 1.5;
   color: #60065D;
   margin-bottom: 28px;
+  font-weight: normal;
+  font-family: 'DIMedium';
 }
 
 .mission-vission-part .part-card p {
@@ -4202,8 +4218,9 @@ html[lang="en"] .showAllServices:hover img {
 }
 
 .Valuable .val-row .val-card .content-box h4 {
-  font-size: 24px;
+  font-size: 30px;
   font-family: 'DIMedium';
+  font-weight: normal;
   color: #A70098;
   margin-bottom: 0;
 }
@@ -4393,6 +4410,9 @@ html[lang="en"] .showAllServices:hover img {
   }
   .mission-vission-part .part-card p {
     font-size: 22px;
+  }
+  .homeHeader .homeSwiper .boxHomeSlide h2 {
+    font-size: 55px;
   }
 }
 
